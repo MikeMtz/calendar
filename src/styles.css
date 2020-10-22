@@ -1,0 +1,15 @@
+td {
+    height: 90px;
+    width: 14.28%;
+}
+.btn-actions {
+    font-size: 10px;
+    padding: 0;
+}
+.list-group {
+    font-size: 10px;
+}
+.ul-reminders {
+    height: 60px;
+    overflow-y: scroll;
+}
